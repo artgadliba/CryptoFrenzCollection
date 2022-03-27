@@ -1,0 +1,7 @@
+# ignore Environment Variables
+/.env
+
+/node_modules
+/artifacts
+/cache
+/package-lock.json
